@@ -1,0 +1,30 @@
+
+10106454, Abraao Jose Martins de Oliveira, 9.00, 60.00, 69.00 / 10119125, Ademir Barros de Lima
+Junior, 11.00, 72.00, 83.00 / 10043064, Adenaldo Soares de Oliveira Junior, 8.00, 82.00, 90.00 /
+10134091, Adriana Correia de Oliveira, 8.00, 40.00, 48.00 / 10014711, Adriano dos Santos, 9.00, 70.00,
+79.00 / 10043265, Alan Ribeiro de Vasconcelos, 6.00, 64.00, 70.00 / 10061274, Aldo Noronha Filgueira
+Neto, 11.00, 66.00, 77.00 / 10112779, Alecsandro Medeiros Nobrega, 5.00, 46.00, 51.00 / 10078699,
+Alex de Jesus da Silva, 6.00, 46.00, 52.00 / 10086304, Alexandro Cardoso da Silva, 6.00, 62.00, 68.00 /
+10122671, Alfremar Azedo Oliveira, 8.00, 38.00, 46.00 / 10102130, Aline Pereira de Azevedo, 9.00,
+63550.00, 59.00 / 10125089, Alisson Jose Bezerra da Silva, 9.00, 60.00, 69.00 / 10017499, Alister Alves
+Moreira, 12.00, 72.00, 84.00 / 10085806, Alvaro Jose Leite Santos, 13.00, 74.00, 87.00 / 10004357,
+Amadeus Lima de Araujo, 8.00, 66.00, 74.00 / 10115068, Amanda de Brito Mendes, 7.00, 50.00, 57.00 /
+10069410, Amauri Belo do Nascimento, 6.00, 50.00, 56.00 / 10065129, Ana Caroline Marques Alves,
+11.00, 76.00, 87.00 / 10034701, Ana Kariliny Fernandes Felipe, 9.00, 74.00, 83.00 / 10096921, Ana
+Patricia Carvalho de Melo, 7.00, 52.00, 59.00 / 10037340, Ana Sara de Souza, 8.00, 58.00, 66.00 /
+10000591, Anderson Carvalho da Nobrega, 3.00, 46.00, 49.00 / 10107371, Anderson Luiz Alves dos
+Santos, 7.00, 50.00, 57.00 / 10022618, Andre Farias Silva, 11.00, 64.00, 75.00 / 10009673, Andre
+Ferreira Faustino, 9.00, 48.00, 57.00 / 10069103, Andre Willyams Rodrigues dos Santos, 6.00, 52.00,
+58.00 / 10052017, Andressa Virginia de Brito Cordeiro, 10.00, 76.00, 86.00 / 10121630, Andreza da Silva
+Quintino, 8.00, 38.00, 46.00 / 10043581, Aniceto Bruno Lima de Andrade, 7.00, 72.00, 79.00 /
+10109407, Anielle Vilar dos Santos, 11.00, 66.00, 77.00 / 10076184, Anne Karolinne Miranda Cavalcante
+Chaves, 4.00, 46.00, 50.00 / 10071606, Antonio Cordeiro Bras do Carmo, 8.00, 44.00, 52.00 / 10083905,
+Antonio dos Santos Silva, 6.00, 50.00, 56.00 / 10058251, Antonio Fernando Lima Pascaretta Junior, 8.00,
+62.00, 70.00 / 10020520, Augusto Ferreira de Souza Junior, 6.00, 56.00, 62.00 / 10113640, Beckman
+Lamenha Lins, 9.00, 74.00, 83.00 / 10102284, Bruno Brandao Barbachan, 7.00, 48.00, 55.00 / 10106190,
+Bruno de Assis da Silva, 8.00, 56.00, 64.00 / 10069713, Bruno Pablo de Souza Belmont, 9.00, 56.00,
+65.00
+
+Nova linha!
+Nova lina 2
+Nova linha 3
