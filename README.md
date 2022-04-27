@@ -1,2 +1,2 @@
 # Brincs
-repositório para adcionar coisas... ;)
+repositório para adcionar projetos aleatórios... ;)
