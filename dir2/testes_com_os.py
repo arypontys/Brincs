@@ -15,13 +15,14 @@ os.chdir('dir2')
 # Criar arquivo xpto.txt
 Path('xpto.txt').touch()
 
+for elemento in range(1, 4):
+    shutil.copy('xpto.txt', f'xpto_{elemento}.txt')
 
-for cont in range(1, 4):
-    shutil.copy('xpto.txt', f'xpto_{cont}.txt')
-
-# Realizar a assertiva
+# Assertiva
 assert len(os.listdir('.')) == 4
 
+# Remover aequivo
+os.remove('xpto.txt')
 
 arq = os.listdir('.')
-print(arq)
+print(sorted(arq))

@@ -51,7 +51,7 @@ def db_select(field, data):
 
 
 
-# cur.execute(db_delete('teste@gmail.com'))
+#cur.execute(db_delete('teste@gmail.com'))
 #cur.execute(db_insert('test', '84982738372', 'test@gmail.com'))
 #cur.execute(db_update('teste', 'teste@gmail.com'))
 
