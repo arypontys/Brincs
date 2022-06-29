@@ -2,6 +2,16 @@
 import random
 
 def gerar_senha():
+    '''
+    Gerar senhas aleatórias com 12 caracteres
+
+    alfabeto: caracteres do alfabeto
+    numeros: numeros de 0 a 9
+    simbolos: 10 síbolos especiais
+    lista senha: variável que recebe os caracteres ramdomizados na sequencia das variáveis dispostas
+    senha: variável que recebe os caracteres já tratados e aleatorios. 
+    '''
+
     alfabeto = ['q','w','e','r','t','y','u','i','o','p','a','s','d',
     'f','g','h','j','k','l','ç','z','x','c','v','b','n','m','Q',
     'W','E','R','T','Y','U','I','O','P','A','S','D','F','G',
