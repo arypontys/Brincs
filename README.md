@@ -1,2 +1,2 @@
 # Brincs
-repositório para adcionar projetos aleatórios... ;)
+Repositório para códigos aleatórios e testes.
